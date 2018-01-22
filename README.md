@@ -10,7 +10,7 @@ My name is Gavin Kirk I am a third year Brock Interactive Arts and Science stude
 
 Visual Portfolio
 
-https://gk14jj.wixsite.com/portfolio
+[](https://gk14jj.wixsite.com/portfolio)
 
 ## Blog Post
 
