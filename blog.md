@@ -1,4 +1,4 @@
-#The Strength of Reading Machines
+##The Strength of Reading Machines
 
 Written by: Gavin Kirk
 
