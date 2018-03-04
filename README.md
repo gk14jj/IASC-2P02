@@ -13,6 +13,6 @@ My name is Gavin Kirk I am a third year Brock Interactive Arts and Science (IASC
 
 ## Blog Post
 
-First sentence of blog post goes here... [continue reading](blog.md)
+The Strength of Reading Machines... [continue reading](blog.md)
 
 
