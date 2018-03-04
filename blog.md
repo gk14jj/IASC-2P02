@@ -21,5 +21,5 @@ Ramsay, S. (n.d.). Reading Machines. Retrieved March 02, 2018, from http://sites
 Kirchenbaum, M. (n.d.). What Is Digital Humanities and What's It Doing in English Departments? Retrieved March 02, 2018, from http://dhdebates.gc.cuny.edu/debates/text/38
 
 Example Voyant Gallery
-http://docs.voyant-tools.org/about/examples-gallery/
+http://docs.voyant-tools.org/about/examples-gallery/ 
 
