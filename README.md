@@ -11,12 +11,17 @@ My name is Gavin Kirk I am a third year Brock Interactive Arts and Science (IASC
 
 [Visual Portfolio](https://gk14jj.wixsite.com/portfolio)
 
-Image feature picture
+## Featured Project
 
-Here are 250 words introduccing this work 
+![](Images/text.png.png)
 
-Here is my 250 word statement ABOUT 3 SORT OF CHANGES AND EVOLUTIONS
-Read feature project title
+### Abstract
+
+  In the academic blog post The Strength of Reading Machines, I aim to tackle the power of Reading Machines (Text Analysis Tools) using the debate in the Digital Humanities to present the argument that text analysis goes beyond just the English departments much like the Digital Humanities do. My approach begins with outlining reading machines by Stephen Ramsay. I present the area of debate that is the Digital Humanities are strongly rooted in the English department. I use a Voyant tool word breakdown to represent a gallery of data in which the text analysis tool is used and explain that it can be used in a variety of fields. Its powers goes beyond just English and is essential to a variety of scholarly purposes. I find that there hasn’t been a huge amount of text analysis done in areas such as math and science, but I propose that there could be more done using the tools. Text analysis tools do however show a very strong power in text-based areas and can be pushed further.
+
+  The academic blog post started out rough in a variety of ways. The original can be found [here](https://github.com/gk14jj/IASC-2P02/commit/5ead4e1674aeea814c5a6ae2954d2173505e388d#diff-e95c7dc8eefee7d0e25121cd7f0007ae). I started off by re writing the blog out and cleaning it up. I re read the entire post and corrected any spelling and grammer errors I could see as it was one of the main areas that my blog need to improve on based on instructor feedback. The first grammar and spell check can be found [here](https://github.com/gk14jj/IASC-2P02/commit/e453ec7ce818faf19676c20d5eb3c9c6854be1b2#diff-e95c7dc8eefee7d0e25121cd7f0007ae). After the original writing corrections, I decided to tackle another area where the academic blog could improve based on instructor feedback. I had issues fitting some of my arguments together and balancing them out. The abstract at the beginning of this page presents the argument better. I went back to the blog and added new sections in the conclusion as well as formatted in better. I also added some introduction changes and other sentence changes throughout the work to create a more coherent post and thesis argument. The final changes can be found [here](https://github.com/gk14jj/IASC-2P02/commit/b483a4d651025a770c7173a529dbb3cd2bc955f7#diff-e95c7dc8eefee7d0e25121cd7f0007ae) among another final edit regarding formatting, spelling, and grammar. 
+
+The Strength of Reading Machines... [continue reading](blog.md)
 
 ## Collaborative Project
 
