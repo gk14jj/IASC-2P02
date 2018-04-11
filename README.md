@@ -4,7 +4,10 @@
 
 ## Bio
 
-My name is Gavin Kirk I am a third year Brock Interactive Arts and Science (IASC) student at Brock University. The IASC program is broken down into different streams and my focus has been on Digital Expression. My passion leans towards 3D modeling and after participating in a intership with a motion capture company I have started to direct my studies in that direction as well. I am also part of the Brock Badgers mens Ultimate Frisbee Team which has been a great experience and something I like to do to unwind. In my spare time I will often play games on my pc at home or spend time with friends and family.
+  My name is Gavin Kirk, I am a third year Brock Interactive Arts and Science (IASC) student at Brock University. The IASC program is broken down into different streams and my focus has been on Digital Expression. My passion leans towards 3D modeling and after participating in an internship with a motion capture company I have started to direct my studies in that direction as well. I am also part of the Brock Badgers Mens Ultimate Frisbee Team which has been a great experience and something I like to do to unwind.
+
+  My area of specialization in the digital humanities lies in data visualizations. I would like to continue with digital tools that help design and analyze text and graphic data. My current projects worked on two different things data visualization through hypercities and text analysis with reading machines. If I were to continue with this work, I would want to continue to develop a tool that blends both text analysis and data visualization. Words are sometimes difficult to understand but blending it with more visual detail like Voyant but taking it even further and mapping out books and their ideas seem like a valuable undertaking.
+
 
 ![](Images/3Dart.jpg)
 
