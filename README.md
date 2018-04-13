@@ -35,7 +35,7 @@ The Strength of Reading Machines... [continue reading](blog.md)
 
   Our approach as a team started out with general information gathering and sharing. I was able to gather different links and data that would assist all members in their project portion. The link [here]( https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/cb4d8f32c7ca619d0689f9cb1d751c5e7fca0c29#diff-6041f7d1583cceb2e01d25b510bab0c4) is an example of one of the later commits that added new links for the team to pull information from. After we create the general information section the team divided the research and presentation up into sections. I was in charge of using HyperCities and create something using the tool. I was also put in charge of explaining the overall usability. The usability slide is shown below.
 
-1[](Images/Usability.PNG)
+![](Images/Usability.PNG)
 
 The pictures I uploaded to the teams GitHub page are shown [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/3c1d4a2c65103b2e8b3b05f78442ab470939bae4#diff-a61126a826955ad27bba21faa5986499). These pictures were used in the presentation and show the map overlay I created and the detailed forked file I tried to use to create a more advance HyperCities map. Unfortunately the forked library was too advanced for me.
 
